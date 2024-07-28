@@ -41,6 +41,11 @@ The script run times shown at the bottom of the scripts were calculated based on
 
 A collection of academic publications in the form of PDF files or zip files containing PDFs, and reference files in CSV or BibTeX format.
 
+```diff
+! WARNING: It is recommended to backup of your PDF files before executing the `0-1. (One-off) unzip_and_rename_files` script
+! as the code will rename files under the 'IEEE' subdirectories even with incomplete batch execution (to create unique identifiers)
+```
+
 `Output`
 
 Excel files containing records of all the PDF files, including their key citation information, local file links for easy reading and note-taking. The second output file also contains the automatic screening results and reasons, as well as tables and graphs for screening result analysis.
