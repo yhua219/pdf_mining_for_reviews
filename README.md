@@ -19,7 +19,7 @@ This work is licensed under a
 
 ## Introduction
 
-This repository contains the Python scripts developed for the automatic screening process in our study, [A Systematic Review of Aspect-based Sentiment Analysis (ABSA): Domains, Methods, and Trends](https://arxiv.org/abs/2311.10777).
+This repository contains the Python scripts developed for the automatic screening process in our study, [A Systematic Review of Aspect-based Sentiment Analysis (ABSA): Domains, Methods, and Trends](https://link.springer.com/article/10.1007/s10462-024-10906-z).
 
 
 We share these scripts to facilitate large-scale literature reviews by mining extracted academic publication PDFs and reference files through the following steps:
